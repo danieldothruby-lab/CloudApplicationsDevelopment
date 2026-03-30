@@ -34,7 +34,7 @@ Abychom se mohli soustředit na síťové principy a ne na mechanické zakládá
 
 1. Přihlaste se do **Azure Portalu**.
 2. V horní liště klikněte na ikonu **Cloud Shell**.
-3. Pokud Cloud Shell otevíráte poprvé, dokončete jeho inicializaci.
+3. Pokud Cloud Shell otevíráte poprvé, Azure vás vyzve k vytvoření Storage Accountu pro uložení souborů shellu — potvrďte vytvoření. Tento Storage Account nesouvisí s tím, který vytvoří bootstrap skript.
 4. Můžete použít **PowerShell** nebo **Bash** prostředí.
 ![01 Azure Cloud Shell](img/01-AzureCloudShell.png)
 
